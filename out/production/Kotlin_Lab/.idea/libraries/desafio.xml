@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="desafio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/desafio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
